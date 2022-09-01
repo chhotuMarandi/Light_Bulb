@@ -17,12 +17,16 @@
 }
 
 button {
-  padding: 8px 10px;
+  border: none;
+  color: #2874a6;
+  border-radius: 5px;
+  padding: 7px 10px;
   font-size: 1.2rem;
   font-weight: 500;
+  background-color: #f7f9f9;
 }
 
 .heading {
-  color: #fff;
+  color: #f7f9f9;
   margin-bottom: 15px;
 }
