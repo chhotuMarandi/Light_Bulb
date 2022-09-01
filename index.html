@@ -11,12 +11,21 @@
     <div class="main-heading">
       <h1 class="heading">Can you turn the light on ?</h1>
       <div class="main-container">
-        <button onclick="">Light on</button>
+        <button
+          onclick="document.getElementById('light').src='https://img.icons8.com/officel/80/1A1A1A/light-on.png' "
+        >
+          Light on
+        </button>
         <img
           src="https://img.icons8.com/officel/80/000000/light-off.png"
           width="150px"
+          id="light"
         />
-        <button onclick="">Light off</button>
+        <button
+          onclick="document.getElementById('light').src='https://img.icons8.com/officel/80/000000/light-off.png' "
+        >
+          Light off
+        </button>
       </div>
     </div>
   </body>
