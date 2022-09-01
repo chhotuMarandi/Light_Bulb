@@ -13,3 +13,14 @@
   justify-content: center;
   flex-direction: column;
 }
+
+button {
+  padding: 8px 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.heading {
+  color: #fff;
+  margin-bottom: 15px;
+}
