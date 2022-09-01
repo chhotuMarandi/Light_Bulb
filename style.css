@@ -2,10 +2,12 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Patrick Hand', cursive;
+  letter-spacing: 2px;
 }
 
 .main-heading {
-  background-color: #1f618d;
+  background-color: #3498db;
   width: 100vw;
   height: 100vh;
   display: flex;
